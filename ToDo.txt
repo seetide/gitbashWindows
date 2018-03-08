@@ -1,0 +1,3 @@
+Test the site
+
+Update index page to be less generic
